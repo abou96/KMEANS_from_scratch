@@ -2,7 +2,7 @@
 
 Dans ce projet, nous allons apprendre à programmer un modele de machine learning appelé k-means. Le clustering k-means est un algorithme d'apprentissage automatique non supervisé d'apprentissage automatique que vous pouvez utiliser pour trouver des clusters dans vos données,
 
-Si vous cherchez à mettre en œuvre cet algorithme en l'implémentamt from scratch, cela vous aidera sur plusieurs points:
+Si vous cherchez à mettre en œuvre cet algorithme en l'implémentant from scratch, cela vous aidera sur plusieurs points:
 
 - À mieux le comprendre
 - À construire votre portefeuille 
